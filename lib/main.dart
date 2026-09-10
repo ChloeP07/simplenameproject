@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Serene has pushed the button this many times:',
               style: TextStyle(
-                fontSize: 124.0,
+                fontSize: 34.0,
                 fontWeight: FontWeight.bold,
               ),
             ),

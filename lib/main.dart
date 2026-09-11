@@ -105,9 +105,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             const Text(
-              'Serene has pushed the button this many times:',
+              'Chloe Phan has pushed the button this many times:',
               style: TextStyle(
-                fontSize: 34.0,
+                fontSize: 1244.0,
                 fontWeight: FontWeight.bold,
               ),
             ),
